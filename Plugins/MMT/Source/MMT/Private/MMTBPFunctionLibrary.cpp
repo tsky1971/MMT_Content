@@ -1,7 +1,7 @@
 //Copyright(c) 2016 Viktor Kuropiatnyk "BoredEngineer"
 
-#include "MMTPluginPCH.h"
 #include "MMTBPFunctionLibrary.h"
+#include "MMTPluginPCH.h"
 
 
 //For UE4 Profiler ~ Stat
